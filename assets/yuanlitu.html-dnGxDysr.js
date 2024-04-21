@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as a,a as e}from"./app-Zy-6XiuU.js";const s={},n=e("p",null,[e("img",{src:"https://mp-cb2e47ef-a802-469a-a81c-2b6efa9f8b60.cdn.bspapp.com/blog-resource/images/vue_mind.png",alt:"img"})],-1),o=[n];function _(l,r){return c(),a("div",null,o)}const m=t(s,[["render",_],["__file","yuanlitu.html.vue"]]);export{m as default};

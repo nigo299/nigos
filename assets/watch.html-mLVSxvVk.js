@@ -1,0 +1,1 @@
+import{_ as c,o as t,c as a,a as e}from"./app-Zy-6XiuU.js";const s={},o=e("p",null,[e("img",{src:"https://mp-cb2e47ef-a802-469a-a81c-2b6efa9f8b60.cdn.bspapp.com/blog-resource/images/watch.jpg",alt:"img"})],-1),_=[o];function n(r,l){return t(),a("div",null,_)}const p=c(s,[["render",n],["__file","watch.html.vue"]]);export{p as default};

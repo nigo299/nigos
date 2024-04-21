@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as t,a as e}from"./app-Zy-6XiuU.js";const s={},n=e("p",null,[e("img",{src:"https://mp-cb2e47ef-a802-469a-a81c-2b6efa9f8b60.cdn.bspapp.com/blog-resource/images/Vue派发更新.jpg",alt:"img"})],-1),o=[n];function _(r,i){return c(),t("div",null,o)}const p=a(s,[["render",_],["__file","paifagengxin.html.vue"]]);export{p as default};

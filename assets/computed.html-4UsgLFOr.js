@@ -1,0 +1,1 @@
+import{_ as c,o as t,c as o,a as e}from"./app-Zy-6XiuU.js";const s={},a=e("p",null,[e("img",{src:"https://mp-cb2e47ef-a802-469a-a81c-2b6efa9f8b60.cdn.bspapp.com/blog-resource/images/computed.jpg",alt:"img"})],-1),_=[a];function n(r,m){return t(),o("div",null,_)}const l=c(s,[["render",n],["__file","computed.html.vue"]]);export{l as default};
